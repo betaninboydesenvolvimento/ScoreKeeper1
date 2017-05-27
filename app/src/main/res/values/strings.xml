@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="GOL">GOL</string>
+    <string name="golBoca">GOL</string>
+    <string name="faltasriver">FALTAS</string>
+    <string name="faltas">0</string>
+    <string name="cartões">CARTÕES</string>
+    <string name="cartoes_river">0</string>
+    <string name="faltas_boca">0</string>
+    <string name="faltasBoca">FALTAS</string>
+    <string name="cartoes_boca">0</string>
+    <string name="cartoesBoca">CARTÕES</string>
+    <string name="reset">RESET</string>
+    <string name="scoreBoca">0</string>
+    <string name="scoreRiver">0</string>
+    <string name="riverPlate">RIVER PLATE</string>
+    <string name="bocaJuniors">BOCA JUNIORS</string>
+</resources>
